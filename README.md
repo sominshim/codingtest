@@ -5,7 +5,7 @@
 | 깃허브 | 언어 |
 |--------|:------:|
 | <img src="https://avatars.githubusercontent.com/dnwls16071" width="50px;"> | <span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></span> |
-| <img src="https://avatars.githubusercontent.com/Dappikim" width="50px;"> | <span><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></span> |
+| <img src="https://avatars.githubusercontent.com/LeeJaeYun7" width="50px;"> | <span><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></span> |
 
 
 ## 📂 디렉토리 구조
@@ -63,6 +63,8 @@
 | 리뷰어 선택 기준 | 미정 |
 | 풀이 분량 | 최소 1문제 (1문제 이상은 리뷰어와 합의) |
 | 리뷰 분량 | 최소 1문제 (배정된 문제가 아니어도 리뷰 자유) |
+| 보증금 | 1달 기준 30,000원 |
+| 불참 사유 | 불참 사유에 대해서 당일말고 사전에 먼저 알려주셔야 참작 가능 |
 
 ## 👉 의견 환영
 
@@ -73,6 +75,6 @@
 
 ## ⛬ 문제집 리포지토리 비교 분석(2024.09.27 정오에 결정)
 
-https://github.com/ndb796/python-for-coding-test
+[이것이 취업을 위한 코딩테스트다 with 파이썬]https://github.com/ndb796/python-for-coding-test
 
-https://github.com/tony9402/baekjoon
+[깃허브 문제 리포지토리]https://github.com/tony9402/baekjoon
